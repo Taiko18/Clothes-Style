@@ -1,0 +1,189 @@
+*{
+    margin: 0px;
+}
+
+body{
+    background:#1eb9e0;
+    color: #01110C ;
+}
+.uno{
+    width: 49%;
+}
+.dos{
+    width: 49%;
+    }
+    
+.tres{
+     width: 49%;
+
+}
+.menu{
+    background-color: darkcyan;
+    padding:10px ;
+    display: flex;
+    justify-content: space-between;
+
+}
+.menu a {
+color: blanchedalmond;
+height: inherit;
+text-decoration: none;
+display: flex;
+align-items: center;
+padding: 0px 10px;
+}
+
+.menu li {
+    height: inherit;
+}
+.primera{
+    background-image: url("img/universo18.jpg");
+    background-size: cover;
+    text-align: center;
+    padding: 100px;
+}
+.primera img{
+    width: 300px;
+}
+.button{
+    height: 35px;
+    width: 150px;
+    background-color: aquamarine;
+    border-radius: 24px;
+    cursor: pointer;
+    margin-top: 26px;
+}
+h1 strong{
+    color: beige;
+}
+
+.poner{
+height: 500px;
+background: cornflowerblue;
+display: flex;
+}
+.diversion{
+    width:50% ;
+    height: inherit;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.diversion img{
+    height: 90%;
+
+}
+/*
+.father{
+    background: goldenrod;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    height: 500px;
+    align-items: center;
+}
+.son{
+    background: #F9B497;
+    width: 300px;
+    height: 300px;
+    border: 2px solid rosybrown;
+    font-size:  30px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+*/
+.logo img{
+ width: 100px;
+}
+li{
+    display: inline;
+    padding: 10px;
+    color:black;
+}
+
+ol {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    height: inherit;
+}
+.secundaria{
+    text-align: center;
+    padding: 10px;
+}
+.tercera{
+    background:#60EEC3 ;
+    text-align: center;
+    padding: 5px;
+    
+    
+}
+.tendencias{
+    text-align: center;
+    background:url(../img/fondo10.jpg) ;
+    height: 2000px;
+    padding: 20%;
+    background-size: 100%;
+    padding-top: 70px;
+}
+
+.cinco{
+    text-align:center;
+    padding: 20px;
+    width: 49%;
+}
+.seies{
+    text-align: center;
+    padding: 20px;
+    width: 49%;
+}
+.siete{
+    text-align: center;
+    padding: 20px;
+    width: 49%;
+
+}
+.ocho{
+    text-align: center;
+    padding: 20px;
+    width: 49%;
+}
+.nueve{
+    text-align: center;
+    padding: 20px;
+    width: 49%;
+}
+.IA{
+    background:url(../img/maquina03.jpg);
+    padding: 20px;
+    text-align: center;
+    background-size: 100%;
+}
+.cero{
+    width: 15%;
+    text-align: center;
+    padding: 70px;
+}
+
+.IA h2{
+    color: cadetblue;
+}
+.IA p{
+    color: #EC8CD2;
+}
+.IA h4{
+    color: #F9B497 ;
+}
+.Ra{
+    color:#1AE5C3 ;
+}
+.container1{
+    display: flex;
+    background-color: aliceblue;
+}
+.container2{
+    background-color: beige;
+}
